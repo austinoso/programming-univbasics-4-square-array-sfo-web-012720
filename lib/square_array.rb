@@ -5,6 +5,7 @@ def square_array(array)
   while array[count] do
     new_array[count]**2
     count += 1
+
   end
 
 end
