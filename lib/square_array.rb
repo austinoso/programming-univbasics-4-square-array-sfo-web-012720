@@ -3,7 +3,7 @@ def square_array(array)
 
   while array[count] do
     p "test"
-    count++
+    count += 1
   end
 
 end
